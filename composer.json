@@ -1,0 +1,6 @@
+{
+    "name": "mix/election_project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.0"
+    }
+}
